@@ -80,31 +80,31 @@ class Home extends StatelessWidget {
                 children: [
                   Image.asset(
                     'assets/images/a-girl.jpg',
-                    width: 160,
+                    width: 161,
                     height: 230,
                     fit: BoxFit.fill,
                   ),
                   Image.asset(
                     'assets/images/anime-brothers.jpg',
-                    width: 160,
+                    width: 161,
                     height: 150,
                     fit: BoxFit.fill,
                   ),
                   Image.asset(
                     'assets/images/anime-coffee-girl.jpg',
-                    width: 160,
+                    width: 161,
                     height: 210,
                     fit: BoxFit.fill,
                   ),
                   Image.asset(
                     'assets/images/another-anime-girl.jpg',
-                    width: 160,
+                    width: 161,
                     height: 150,
                     fit: BoxFit.fill,
                   ),
                   Image.asset(
                     'assets/images/arch-girl.png',
-                    width: 160,
+                    width: 161,
                     height: 280,
                     fit: BoxFit.fill,
                   ),
