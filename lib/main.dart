@@ -99,7 +99,7 @@ class Home extends StatelessWidget {
                   Image.asset(
                     'assets/images/another-anime-girl.jpg',
                     width: 161,
-                    height: 150,
+                    height: 160,
                     fit: BoxFit.fill,
                   ),
                   Image.asset(
